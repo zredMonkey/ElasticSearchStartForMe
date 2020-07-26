@@ -1,0 +1,2 @@
+# ElasticSearchStartForMe
+hello ElasticSearch~
